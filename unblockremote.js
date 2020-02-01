@@ -1,3 +1,3 @@
 var body = $response.body;
-body = '\/*\n@supported 你的QuantumultX设备ID填这里\n*\/\n' + body;
+body = '\/*\n@supported 4918E415E82B\n*\/\n' + body;
 $done(body);
